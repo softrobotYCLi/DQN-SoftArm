@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\arm_control2019\\DRL_code_201901\\point_control\\modelofddqn\\DDQN_PRIOR.ckpt"
+all_model_checkpoint_paths: "D:\\arm_control2019\\DRL_code_201901\\point_control\\modelofddqn\\DDQN_PRIOR.ckpt"
